@@ -1,4 +1,4 @@
-#include "../src/algorithm/include/rr/algorithm.h"
+#include "../src/algorithm/algorithm.h"
 #include <iostream>
 #include "gtest/gtest.h"
 #include <vector>

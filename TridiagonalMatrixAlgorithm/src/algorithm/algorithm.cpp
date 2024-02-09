@@ -1,4 +1,4 @@
-#include "include/rr/algorithm.h"
+#include "algorithm.h"
 
 std::vector<double> Algorithm(Tridiagonal_Matrix& matrix,std::vector<double>& f)
 {

@@ -1,4 +1,4 @@
-set(SOURCES algorithm/algorithm.cpp algorithm/include/rr/algorithm.h)
+set(SOURCES algorithm/algorithm.cpp algorithm/algorithm.h)
 
 add_library(Algorithm ${SOURCES})
 
