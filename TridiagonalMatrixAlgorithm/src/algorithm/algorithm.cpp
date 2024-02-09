@@ -1,6 +1,6 @@
 #include "algorithm.h"
 
-std::vector<double> Algorithm(Tridiagonal_Matrix& matrix,std::vector<double>& f)
+std::vector<double> Algorithm(Tridiagonal_Matrix& matrix, std::vector<double>& f)
 {
     std::vector<double> q = {0.0};
     std::vector<double> p = {0.0};
