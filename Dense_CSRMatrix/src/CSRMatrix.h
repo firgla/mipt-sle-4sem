@@ -42,6 +42,7 @@ public:
 
     const std::vector<long unsigned int> get_cols() const                              {return cols;}
     const std::vector<long unsigned int> get_rows() const                              {return rows;}
+    const std::vector<T> get_values() const                                            {return values;}
 
     const T operator()(long unsigned int i, long unsigned int j) const     
     {

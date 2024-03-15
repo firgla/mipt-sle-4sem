@@ -28,5 +28,4 @@ TEST(testCSR, satisfies)
     ASSERT_EQ(matrix4(0,3), 9);
     ASSERT_EQ(vec2[1], 23);
 
-
 }

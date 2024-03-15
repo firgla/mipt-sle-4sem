@@ -1,0 +1,39 @@
+Start testing: Mar 16 01:37 MSK
+----------------------------------------------------------
+1/1 Testing: run_test1
+1/1 Test: run_test1
+Command: "/Users/glafira.fironova/Documents/mipt-sle-4sem/Solvers/build/tests/run_test1"
+Directory: /Users/glafira.fironova/Documents/mipt-sle-4sem/Solvers/build/tests
+"run_test1" start time: Mar 16 01:37 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/glafira.fironova/Documents/mipt-sle-4sem/Solvers/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from fixed_point_it
+[ RUN      ] fixed_point_it.test_1
+[       OK ] fixed_point_it.test_1 (0 ms)
+[----------] 1 test from fixed_point_it (0 ms total)
+
+[----------] 1 test from gauss_seidel
+[ RUN      ] gauss_seidel.test_2
+[       OK ] gauss_seidel.test_2 (0 ms)
+[----------] 1 test from gauss_seidel (0 ms total)
+
+[----------] 1 test from jacobi
+[ RUN      ] jacobi.test_3
+[       OK ] jacobi.test_3 (5 ms)
+[----------] 1 test from jacobi (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (6 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"run_test1" end time: Mar 16 01:37 MSK
+"run_test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 16 01:37 MSK

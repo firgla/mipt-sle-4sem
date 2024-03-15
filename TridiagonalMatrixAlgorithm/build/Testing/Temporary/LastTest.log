@@ -1,0 +1,34 @@
+Start testing: Mar 16 01:00 MSK
+----------------------------------------------------------
+1/1 Testing: tests
+1/1 Test: tests
+Command: "/Users/glafira.fironova/Documents/mipt-sle-4sem/TridiagonalMatrixAlgorithm/build/tests/tests"
+Directory: /Users/glafira.fironova/Documents/mipt-sle-4sem/TridiagonalMatrixAlgorithm/build/tests
+"tests" start time: Mar 16 01:00 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/glafira.fironova/Documents/mipt-sle-4sem/TridiagonalMatrixAlgorithm/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 2 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from test1
+[ RUN      ] test1.satisfies
+[       OK ] test1.satisfies (0 ms)
+[----------] 1 test from test1 (0 ms total)
+
+[----------] 1 test from test2
+[ RUN      ] test2.doesnt_satisfies
+[       OK ] test2.doesnt_satisfies (0 ms)
+[----------] 1 test from test2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"tests" end time: Mar 16 01:00 MSK
+"tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 16 01:00 MSK
