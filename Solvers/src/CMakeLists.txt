@@ -1,4 +1,4 @@
-set(SOURCES fixed_point_it.h gauss_seidel.h jacobi.h ../../Dense_CSRMatrix/src/CSRMatrix.h ../../Dense_CSRMatrix/src/vector.h)
+set(SOURCES chebyshev.h fixed_point_it.h gauss_seidel.h jacobi.h ../../Dense_CSRMatrix/src/CSRMatrix.h ../../Dense_CSRMatrix/src/vector.h)
 
 add_library(${PROJECT_NAME} INTERFACE ${SOURCES})
 
